@@ -1,5 +1,5 @@
 amazonProperties:
   endpointUrl: https://pdfappbucket.s3.ap-northeast-1.amazonaws.com
-  accessKey: AKIA3JRRBNYPQS53GYCF
-  secretKey: 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
+  accessKey: XXXXXXXXXXXXXX
+  secretKey: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   bucketName: pdfappbucket
